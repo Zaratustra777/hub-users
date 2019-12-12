@@ -1,6 +1,6 @@
 Top users from gitHub. Used: React, Redux, ReduxSaga, Graphql, StyledComponent, Ant 
 
-### `yarn start`
+### `yarn`
 
 fetch dependencies
 
