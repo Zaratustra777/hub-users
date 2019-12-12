@@ -1,0 +1,3 @@
+export const FETCH = "FETCH";
+export const FETCH_BASIC_SUCCESS = "FETCH_BASIC_SUCCESS";
+export const FETCH_STARS_SUCCESS = "FETCH_STARS_SUCCESS";
