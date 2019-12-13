@@ -2,7 +2,7 @@ Top users from gitHub. Used: React, Redux, ReduxSaga, Graphql, StyledComponent, 
 
 Please update ```GITHUB_PERSONAL_ACCESS_TOKEN``` in ```config.js```
 
-### `yarn start`
+### `yarn`
 
 fetch dependencies
 
