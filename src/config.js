@@ -1,2 +1,1 @@
-export const GITHUB_PERSONAL_ACCESS_TOKEN =
-  "fc31bf6a3b2c50bc0ff33d06060121b8efdb599e";
+export const GITHUB_PERSONAL_ACCESS_TOKEN = process.env.REACT_APP_GITHUB_TOKEN || '';
